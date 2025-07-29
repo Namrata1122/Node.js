@@ -24,6 +24,7 @@
 //     subtract,
 // }
 
+// ----------------pattern 4-------------------
 export const add =(a,b)=>{
     return a+b;
 };
